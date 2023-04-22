@@ -1,7 +1,7 @@
 {
-  "name": "pitayasmoothie",
+  "name": "gruvboxdark",
   "version": "0.1.0",
-  "description": "Pitaya Smoothie in JupyterLab: a dark theme inspired by 2018 Pantone of the Year. Designed for low-light condition and colorblindness tested.",
+  "description": "Gruvbox Dark in JupyterLab: A JupyterLab theme extension.",
   "license": "BSD-3-Clause",
   "author": "jupyter accessibility group",
   "homepage": "https://github.com/kenjius01/themes_jupyterlab",
@@ -53,6 +53,6 @@
         ]
       }
     },
-    "outputDir": "../../themes_jupyterlab/labextensions/pitayasmoothie"
+    "outputDir": "../../themes_jupyterlab/labextensions/gruvboxdark"
   }
 }

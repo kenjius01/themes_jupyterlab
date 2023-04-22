@@ -9,7 +9,7 @@ import setuptools
 
 HERE = Path(__file__).parent
 MOD = "themes_jupyterlab"
-VARIANTS = ["pitayasmoothie"]
+VARIANTS = ["pitayasmoothie", "gruvboxlight", "gruvboxdark", "dracula", "tailwindlight", "mexicolight", "onedarktheme", "monokai"]
 EXTS = [HERE / MOD / f"labextensions/{v}" for v in VARIANTS]
 MANIFESTS = [ext / "package.json" for ext in EXTS]
 PACKAGES = [json.loads(pkg_json.read_text(encoding="utf-8")) for pkg_json in MANIFESTS]

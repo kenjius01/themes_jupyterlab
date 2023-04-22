@@ -35,7 +35,6 @@ Highlight color: ![#321f7ad9](https://via.placeholder.com/20/321f7ad9/321f7ad9.p
 | ![#f45c7b](https://via.placeholder.com/20/f45c7b/f45c7b.png) | `#f45c7b` | 5.7 : 1  | AA          | AAA        |
 | ![#ffe46b](https://via.placeholder.com/20/ffe46b/ffe46b.png) | `#ffe46b` | 14.2 : 1 | AAA         | AAA        |
 
-
 ## Acknowledgements
 
 This theme is based and inspired in [vscode theme extension for Pitaya Smoothie](https://github.com/trallard/pitaya_smoothie).

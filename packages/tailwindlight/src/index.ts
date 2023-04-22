@@ -1,3 +1,6 @@
+// Copyright (c) Jupyter Accessibility Team.
+// Distributed under the terms of the Modified BSD License.
+
 import {
   JupyterFrontEnd,
   JupyterFrontEndPlugin
@@ -9,15 +12,14 @@ import { IThemeManager } from '@jupyterlab/apputils';
  * Initialization data for the jupyterlab-accessible-themes extension.
  */
 const plugin: JupyterFrontEndPlugin<void> = {
-  id: 'themes_jupyterlab:pitayasmoothie',
+  id: 'themes_jupyterlab:tailwindlight',
   autoStart: true,
   requires: [IThemeManager],
   activate: (app: JupyterFrontEnd, manager: IThemeManager) => {
-    console.log('JupyterLab extension themes pitayasmoothie is activated!');
-    const style = 'pitayasmoothie/index.css';
+    const style = 'tailwindlight/index.css';
 
     manager.register({
-      name: 'Pitaya Smoothie',
+      name: 'Tailwind Light',
       isLight: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
