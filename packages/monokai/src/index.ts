@@ -17,9 +17,8 @@ const plugin: JupyterFrontEndPlugin<void> = {
   requires: [IThemeManager],
   activate: (app: JupyterFrontEnd, manager: IThemeManager) => {
     const style = 'monokai/index.css';
-
     manager.register({
-      name: 'One Dark Theme',
+      name: 'Monokai Theme',
       isLight: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
