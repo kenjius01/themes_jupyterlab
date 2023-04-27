@@ -85,7 +85,6 @@ button.jp-Button.bp3-button.bp3-minimal:hover {
 /* Status bar font color */
 .f1235lqo,
 .jp-switch {
-  color: white;
   border-radius: initial;
 }
 .fwgmxe9:hover,
@@ -98,7 +97,7 @@ button.jp-Button.bp3-button.bp3-minimal:hover {
 }
 .jp-switch-track {
   /* Simple switch: Off */
-  background-color: var(--tailwind-grey-900);
+  var(--jp-switch-color, var(--jp-border-color1));
 }
 .jp-switch-track::before {
   /* Simple switch: Color */

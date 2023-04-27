@@ -391,6 +391,9 @@ smoothie main theme, https://github.com/trallard/pitaya_smoothie.
   /* the space in between the sides of the thumb and the track */
   --jp-scrollbar-thumb-radius: 9px;
   /* set to a large-ish value for rounded endcaps on the thumb */
+
+  /* Statusbar specific styles */
+  --jp-statusbar-height: 24px;
 }
 
 /*# sourceMappingURL=variables.css.map */
