@@ -20,5 +20,5 @@ pre {
 
 .jp-switch-track {
   /* Simple switch: Off */
-  background-color: var(--base16-foreground-light);
+  background-color: var(--base16-gray);
 }
