@@ -97,7 +97,7 @@ button.jp-Button.bp3-button.bp3-minimal:hover {
 }
 .jp-switch-track {
   /* Simple switch: Off */
-  var(--jp-switch-color, var(--jp-border-color1));
+  background-color: var(--tailwind-grey-700);
 }
 .jp-switch-track::before {
   /* Simple switch: Color */
