@@ -1,6 +1,6 @@
 {
   "name": "dracula",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "arcula theme for JupyterLab. Modelled after the classic Intellij theme.",
   "license": "BSD-3-Clause",
   "author": "jupyter accessibility group",
