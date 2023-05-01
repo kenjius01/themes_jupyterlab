@@ -1,6 +1,6 @@
 {
   "name": "onedarktheme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A JupyterLab theme extension.",
   "license": "BSD-3-Clause",
   "author": "jupyter accessibility group",
@@ -55,5 +55,5 @@
     },
     "outputDir": "../../themes_jupyterlab/labextensions/onedarktheme"
   },
-  "gitHead": "9997df5c6793d973f0b09bde45acf45cd5be4bdb"
+  "gitHead": "f360d241230b1c39853f1faf61300d49284d0456"
 }

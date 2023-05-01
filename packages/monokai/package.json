@@ -1,6 +1,6 @@
 {
   "name": "monokaitheme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A JupyterLab theme extension.",
   "license": "BSD-3-Clause",
   "author": "jupyter accessibility group",
@@ -55,5 +55,5 @@
     },
     "outputDir": "../../themes_jupyterlab/labextensions/monokai"
   },
-  "gitHead": "87665519da83417c107ff194318c8c2a8339c0cc"
+  "gitHead": "f360d241230b1c39853f1faf61300d49284d0456"
 }
