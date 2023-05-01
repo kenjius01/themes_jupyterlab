@@ -54,5 +54,6 @@
       }
     },
     "outputDir": "../../themes_jupyterlab/labextensions/gruvboxdark"
-  }
+  },
+  "gitHead": "9997df5c6793d973f0b09bde45acf45cd5be4bdb"
 }
