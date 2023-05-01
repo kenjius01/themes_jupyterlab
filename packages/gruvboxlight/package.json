@@ -1,6 +1,6 @@
 {
   "name": "gruvboxlight",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Gruvbox Light in JupyterLab: A JupyterLab theme extension.",
   "license": "BSD-3-Clause",
   "author": "jupyter accessibility group",

@@ -1,6 +1,6 @@
 {
   "name": "tailwindlight",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Theme for JupyterLab",
   "license": "BSD-3-Clause",
   "author": "jupyter accessibility group",
